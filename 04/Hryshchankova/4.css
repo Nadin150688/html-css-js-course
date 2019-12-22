@@ -1,0 +1,26 @@
+
+table{
+    border: 1px solid black;
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+}
+table th,
+table td{
+    border: 1px solid black;
+}
+.services:hover,
+td:hover,
+th:hover{
+    background-color: blueviolet;
+    font-size: 40px;
+}
+.services:active,
+td:active,
+th:active{
+    background-color:violet;
+}
+
+
+
+
